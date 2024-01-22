@@ -1,0 +1,42 @@
+		                 	              TASK 2
+
+1. Why do you like to join as a Software developer?
+
+I'm genuinely excited about the prospect of joining Zennode as a Software Developer. What draws me in is the company's commitment to innovation and the creative freedom it provides to its development teams. I'm eager to be part of a workplace culture that values curiosity, collaboration, and staying ahead in the rapidly evolving world of software development.
+
+2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+Visual Studio Code: I love using Visual Studio Code because it feels like a companion in my coding journey. Its simplicity, combined with a rich set of extensions, makes coding a joy. It's not just a tool; it's an ally that adapts to my needs.
+
+GitHub: The collaborative nature of GitHub is inspiring. Being part of a global community where ideas are freely shared and projects evolve through collective effort is incredibly inspiring.
+
+Scikit-learn: As a part of my machine learning projects, Scikit-learn stands out. Its user-friendly interface and comprehensive functionality make machine learning accessible and enjoyable.
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+
+Zennode: I'm drawn to Zennode because of its reputation for innovation and commitment to growth. It is an environment that values both individual creativity and collaborative achievement.
+
+Google: Known for its innovation and commitment to pushing technological boundaries, Google's emphasis on creativity and a collaborative work culture is appealing. I am drawn to the opportunity to work on groundbreaking projects that have a global impact.
+
+Microsoft: I admire Microsoft's commitment to empowering individuals. The focus on diversity and continuous learning aligns with my values. It’s not just a tech giant; it’s a community that encourages personal growth and collaboration.
+
+4. How you position yourself in this industry after 2 years.
+
+In two years, I see myself as a seasoned Software Developer with hands-on experience in creating impactful solutions and known for delivering robust and scalable solutions. I aim to contribute significantly to challenging projects and deepen my expertise in emerging technologies. Additionally, I aspire to actively participate in the tech community through knowledge-sharing and mentorship.
+
+5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+Movie Recommendation System
+
+Role: Designer and Implementer
+Description: I designed and implemented a personalized Movie Recommendation System, incorporating three distinct recommendation techniques. It's not just a system; it's an enhancement that aims to elevate user experience through innovative algorithms.
+
+Phishing Website Detection 
+
+Role: Developer and Data Analyst
+Description: I developed a machine learning-based solution for detecting phishing websites. The main aim of this project is to contribute to cybersecurity, addressing the growing threat of online scams through meticulous data analysis and model implementation.
+
+ML Preprocessing CLI 
+
+Role: Developer
+Description: I developed a Python-based Command Line Interface for automated data preprocessing in Machine Learning, addressing critical challenges associated with raw data inconsistencies and errors. It provides a solution that streamlines data processing, ensuring efficiency and compatibility with existing machine learning workflows.
